@@ -1,4 +1,5 @@
-Social-Media-Application
+ Social-Media-Application
+
 A simple social media application built with Python and Django. This application allows users to perform basic social media actions such as adding posts, logging in, following other users, searching for posts, liking posts, and commenting on posts.
 
 Features
